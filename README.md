@@ -18,7 +18,19 @@ RightNets focuses on three objectives divided into two target research areas:
 
 ## Published Documents
 
-RightNets started in December 2023. As such, no report has been made available yet, but the first results will be published soon...
+RightNets started in December 2023. Here the RightNets’ deliverables, milestones, and publications, addressing the challenges of the project, are showcased.
+
+### Deliverables, Milestones, and Reports
+
+| **Title**                                                                                                                                                        | **Author(s)**                     | **Notes**                                                                                                                                                                                                                                                                                      | **Pdf**                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| Campagne elettorali digitali e social media: stato dell’arte / La (non) regolazione delle campagne elettorali online nell’ordinamento nazionale: stato dell’arte | Anna Licastro, Edoardo Caterina   | The document consists of two reports: <br>- Campagne elettorali digitali e social media: stato dell’arte – edited by Anna Licastro, pp. 2-16 <br>- La (non) regolazione delle campagne elettorali online nell’ordinamento nazionale: stato dell’arte – edited by Edoardo Caterina, pp. 17-21 | [pdf](reports/R-001.pdf)) |
+
+### Publications
+
+| **Title**                                                                                                                            | **Author(s)**    | **Published in**                                                    | DOI                                                    | **Pdf**                             | **Bibtex**                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------|-----------------------------------------------|
+| Le campagne di disinformazione nell’arsenale di guerra: strumenti giuridici per contrastare la minaccia alla prova del bilanciamento | Angela Cossiri   | Rivista italiana di informatica e diritto. 5, 2 (feb. 2024), 77-85. | [10.32091/RIID0121](https://doi.org/10.32091/RIID0121) | [pdf](publications/Cossiri2024.pdf) | [bibtex](publications/bibtex/Cossiri2024.bib) |
 
 ---
 
